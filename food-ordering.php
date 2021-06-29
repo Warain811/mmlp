@@ -310,7 +310,7 @@ if(isset($_POST['ticket_submit']))
 			  <select name="ticket_id" required>
 			    <?php
 
-					$tickets = mysqli_query($link, "SELECT ticket_id FROM tickets WHERE total_price IS NULL");
+					$tickets = mysqli_query($link, "SELECT ticket_id FROM tickets WHERE total_price IS NULL AND id = $id");
 							
 			        while($data = mysqli_fetch_array($tickets))
 			        {
