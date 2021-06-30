@@ -119,13 +119,11 @@
 				data:$(this).serialize(),
 				success:function(resp){
 						if(resp == 1){
-					 	alert("Reservartion successfully saved, awaiting confirmation");
-						location.replace('booking.php');
-					 } else {
-						location.replace('booking.php');
-					 }
+						alert("Reservartion successfully saved, awaiting confirmation");
+						location.replace('booking.php')
+					}
 					
-				},
+				}
 
 			})
 		})
