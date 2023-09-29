@@ -187,60 +187,7 @@
 			<a href="#">Privacy Policy</a>
 		</div>
 	</footer>
-	 <!-- <div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/boss_baby.jpg" alt="The Avengers">
-					<h3 class="title">The Boss Baby: Family Business</h3>
-					<p class="post_info">PG | Comedy , Family , Animation <br> July 2<br>
-					</button>			</div>
-			</div>
 
-			<div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/forever_purge.jpg" alt="Inside Out">
-					<h3 class="title">The Forever Purge</h3>
-					<p class="post_info">R | Horror , Thriller <br> July 2<br> 
-					</button>		</div>
-			</div>
-            
-            <div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/summer_soul.jpg" alt="The Martian">
-					<h3 class="title">Summer of Soul</h3>
-					<p class="post_info">PG-13 | Documentary , Music <br> July 2<br>
-					</button>	</div>
-			</div>
-            
-            <div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/black_widow.jpg" alt="Mad Max">
-					<h3 class="title">Black Widow</h3>
-					<p class="post_info">PG-13 | Action , Adventure , Superhero <br> July 9<br> 
-					</button>		</div>
-			</div>
-
-            <div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/audible.jpg" alt="Star Wars">
-					<h3 class="title">Audidble</h3>
-					<p class="post_info">PG-13 | Documentary <br> July 1<br>
-					</button>	
-				</div>
-			</div>
-            
-			<div class="row">
-				<div class="post">
-				<button type="submit" formaction="overview/werewolves_within.php"class="scanfcode1">
-					<img src="images/movies/zola.jpg" alt="Jurassic World">
-					<h3 class="title">Zola</h3>
-					<p class="post_info">R | Drama , Comedy , True Story <br> June 30<br>
-</button>	
-				</div>
-			</div>	 -->
+			
 </body>
 </html>
